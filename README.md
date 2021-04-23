@@ -20,3 +20,12 @@ In medical imaging, it is very important to identify the region of interest and 
 Example:
 
 ![Edge detection](/images/Example-of-cell-segmentation-and-tracking-in-the-C-elegans-embryogenesis-image-sequence.png)
+
+# Image enhancement
+
+Image Enhancement is an important technique in image processing, used to improve the contrast or quality of images for better display and further analysis. Different methods are used to achieve this, namely, Histogram equalization, log/gamma adjust, intensity rescaling, etc.
+
+Example:
+
+
+![Enhancement](/images/imageEnhac.png)
