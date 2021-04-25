@@ -14,9 +14,9 @@ The codes are written on : google colaboratory (https://colab.research.google.co
 
 **To execute with google colab:**
 
-1.Upload your own data/images while executing the upload cell
-2.Replace the file reading file names with your image file names
-3.Execute the remaining cells 
+1. Upload your own data/images while executing the upload cell
+2. Replace the file reading file names with your image file names
+3. Execute the remaining cells 
 
 # 3D deconvolution
 Deconvolution is an image processing technique used to improve the contrast and sharpness of images captured using a light microscope. Each point source below the diffraction limit is blurred by the microscope into what is known as a point spread function (PSF). Deconvolution functions use this known PSF values(based on microcope's parameters) to deblur the images.
