@@ -5,6 +5,7 @@ We are using sample data from https://scikit-image.org/docs/stable/api/skimage.h
 The codes are written on : google colaboratory (https://colab.research.google.com/notebooks/intro.ipynb)
 
 **To execute the codes locally:**
+
 1. Set up anaconda
 2. Add python 3.6+
 3. Remove google colab file uploading cell from the notebook
@@ -12,6 +13,7 @@ The codes are written on : google colaboratory (https://colab.research.google.co
 5. Execute the code with your own data/images
 
 **To execute with google colab:**
+
 1.Upload your own data/images while executing the upload cell
 2.Replace the file reading file names with your image file names
 3.Execute the remaining cells 
