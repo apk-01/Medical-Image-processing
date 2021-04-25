@@ -42,4 +42,6 @@ Example:
 
 Image registration is a very important part of medical imaging. We often get images of the same object from different sources or images taken sequentially from the same source. Such images may require to be overlayed for further processing. However, since they have been taken sepperately, they might not be aligned properly. In such a case, we need to align the images appropriately before processing on them. In our notebook we shall explore one of the most popular methods of image registration.
 
+Example:
+
 ![Registration](/images/registration.png)
